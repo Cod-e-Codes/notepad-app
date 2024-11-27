@@ -24,14 +24,14 @@ A lightweight and user-friendly notepad app built with Flutter, leveraging the H
 5. Access help and about sections from the drawer menu.
 
 ## Screenshots
+### File Menu
+<img src="./screenshot1.png" alt="Home Screen" width="400" />
+
 ### Home Screen
-![Home Screen](./screenshot1.png)
+<img src="./screenshot2.png" alt="Notes in Dark Mode" width="400" />
 
-### Multi-Tab Interface
-![Multi-Tab Interface](./screenshot2.png)
-
-### Dark Mode
-![Dark Mode](./screenshot3.png)
+### Notes in Dark Mode
+<img src="./screenshot3.png" alt="File Menu" width="400" />
 
 ## Setup and Installation
 1. Clone the repository.
@@ -53,4 +53,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Developed by CodēCodes.
+## Created By
+
+This project was created by [CodēCodes](https://www.cod-e-codes.com/).
+
+- Website: [CodēCodes](https://www.cod-e-codes.com/)
+- GitHub: [Cod-e-Codes](https://github.com/Cod-e-Codes/)
